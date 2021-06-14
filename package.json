@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "com.unity.ext.nunit": "1.0.6",
-    "com.unity.netcode": "0.6.0-preview.7"
+    "com.unity.netcode": "0.4.0-preview.1"
   },
   "description": "Simple web server for REST commands"
 }
